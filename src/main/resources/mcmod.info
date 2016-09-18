@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mayacraft",
+  "name": "MayaCraft",
+  "description": "This mod adds plants and monsters from ancient Maya.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eryngii"],
+  "credits": "ShanghaiCrab(idea and texture cooperation)",
+  "logoFile": "logoimg.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
